@@ -2,8 +2,8 @@
   Mohammed Nader Al Ghussin
 </h3>
 
-<p>
-    Front-End ReactJs Developer,Software Engineering.
+<p> 
+    Front-End React Js Developer,Software Engineering.
 </p>
 
 <br/>
