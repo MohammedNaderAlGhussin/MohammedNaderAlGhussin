@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi there, I'm Mohammed Nader Al Ghussin<br>
+
 🚀 Front-End React & Next.js Developer | Software Engineer<br>I am a passionate Software Engineer with a strong foundation in both front-end and back-end development. My core focus is building high-performance, scalable web applications using React and Next.js, while ensuring clean architecture and industry best practices.<br><br>🎓 Background: Recently graduated with a deep understanding of software engineering fundamentals.<br><br>💡 Expertise: Crafting seamless user experiences and robust web solutions.<br><br>🌱 Currently Learning: Deep diving into the MERN stack to become a full-fledged Full-Stack Developer.<br><br>🤝 Collaboration: Open to collaborating on innovative web projects and open-source initiatives.
 
 
